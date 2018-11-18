@@ -1,72 +1,103 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
-@title[Introduction]
+---
+@title[Título]
 
-@snap[west headline text-white span-70]
-GitPitch<br>*The Template*
+@snap[midpoint headline span-80]
+# Um estudo sobre a existência de invariantes funcionais na moral
 @snapend
 
-@snap[south-west byline  text-white]
-The Fastest Way From Idea To Presentation.
+
+@snap[south-west byline text-black]
+Vicente E. R. Marçal
+@snapend
+
+@snap[south-east byline text-black]
+Patrícia U. R. Batáglia
 @snapend
 
 ---
-@title[Slide Markdown]
+@title[Os Autores]
 
-### Each slide in this presentation is provided as a *template*.
+@snap[midpoint span-70]
+@box[bg-gray text-white rounded box-font-size](Vicente Eduardo Ribeiro Marçal#Doutorando em Psicologia Social pelo IP-USP<br>Professor Adjunto do Departamento de Filosofia da UNIR<br>Coordenador do GEPEGRA) 
+@snapend
 
++++
+@snap[midpoint span-70]
+@box[bg-gray text-white rounded box-font-size](Patrícia Unger Raphael Batáglia#Doutora em Psicologia social pelo IP-USP<br>Professora Associada do Departamento de Psicologia da Educação da UNSPE-Marília) 
+@snapend
+
+---
+@title[Introdução]
+
+@snap[north-east]
+<br><br><br>
+Introdução
+@snapend
+
+@snap[south-west list-content-concise span-100 box-font-size]
+@ul
+- O Trabalho de Piaget é seminal em muitos aspectos
+- Certamente a temática a que mais se debruçou foi a Epistemologia
+- Mas a moral lhe foi um tema caro, ao qual dedicou um livro extremamente importante
+- Contudo, o projeto ficou incacabado (ver Lia Freitas)
+- Abrindo muitas possibilidades de trabalho, como a que apresentamos aqui
+@ulend
 <br><br>
+@snapend
 
-1. Select only the slide templates that you need.
-1. Customize the template _markdown content_.
-1. Optionally, override template _styles_ and _settings_.
-1. Then present and publish with GitPitch @fa[smile-o]
+
+---
+@title[Invariantes Funcionais no Desenvolvimento Cogntivo]
+
+@snap[west text-balck box-font-size]
+Invariantes Funcionais no<br>Desenvolvimento Cogntivo
+@snapend
+
+@snap[east image-size]
+![Processo Biológico Adaptação](template/img/FluxoProcessoAdaptacao-Organizacao.png)
+@snapend
+
+---
+@title[Desenvolvimento Moral - I]
+
+@snap[north-east]
+<br><br><br>
+Desenvolvimento Moral - Parte I
+@snapend
+
+@snap[south-west list-content-concise span-100 box-font-size]
+@ul
+- _Recherche_ de 1919 Piaget já sinalizava para uma inteção sobre a moral
+- 1932 escreve _Le Jugement Moral chez l'Enfant_ obra fruto de sua pesquisa sobre o tema
+- Contudo compreendemos ter um caráter periférico, justamente por ser única
+- Como já dissemos é um projeto ficou incacabado (ver Lia Freitas)
+- Piaget compreende ser a moral um sistema de regras
+@ulend
 <br><br>
-
-
----
-@title[Tip! Fullscreen]
-
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
-
----?include=template/md/split-screen/PITCHME.md
-
----?include=template/md/sidebar/PITCHME.md
-
----?include=template/md/list-content/PITCHME.md
-
----?include=template/md/boxed-text/PITCHME.md
-
----?include=template/md/image/PITCHME.md
-
----?include=template/md/sidebox/PITCHME.md
-
----?include=template/md/code-presenting/PITCHME.md
-
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/announcement/PITCHME.md
-
----?include=template/md/about/PITCHME.md
-
----?include=template/md/wrap-up/PITCHME.md
-
----
-@title[The Template Docs]
-
-@snap[west span-100]
-### **Now it's @color[#E49436](your) turn.**
-
-<br>
-
-#### Use these templates to create custom slides.
-#### **Then amaze your audience with a Git@color[#E49436](Pitch) slideshow @fa[smile-o]**
 @snapend
 
-@snap[south docslink span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
+---
+@title[Desenvolvimento Moral - II]
+
+@snap[north-east]
+<br><br><br>
+Desenvolvimento Moral - Parte II
 @snapend
+
+@snap[south-west list-content-concise span-100 box-font-size]
+@ul
+- Sendo assim, não é Piaget que leva a cabo a pesquisa sobre a Moral
+- Temos grandes pesquisadores que tratam da temática
+- No Brasil destacamos Yves de La Taille e Lia Freitas
+- Nosso trabalho, também, discute com as contribuições de Kohlberg sobre a temática
+- Constatamos, principalmente, que o invariante funcional seria a relação com regras que vai da anomia à autonomia.
+@ulend
+<br><br>
+@snapend
+
+---
+@snap[midpoint]
+# Obrigado
+@snapend
+
+

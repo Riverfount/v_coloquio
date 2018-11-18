@@ -1,13 +1,21 @@
 /* Intro Template Styles */
 
 .headline {
-  font-size: 2.5em !important;
+  font-size: 0.45em !important;
   font-weight: bold !important;
 }
 
 .byline {
-  letter-spacing: 0.1em;
+  letter-spacing: 0.25em;
   font-size: 0.6em !important;
+}
+
+.box-font-size {
+  font-size: 0.7em !important;
+}
+
+.image-size {
+  height: 100%
 }
 
 /* Split-Screen Template Styles */
@@ -81,6 +89,7 @@
   padding-top: 1.8em;
   padding-bottom: 2.3em;
 }
+
 
 /** Image Template Styles ***/
 
@@ -183,7 +192,7 @@
 }
 
 #gp-logo img {
-  max-height: 3.5em;
+  max-height: 10em;
   max-width: none;
 }
 
@@ -272,3 +281,4 @@
   opacity: 0.75 !important;
   font-size: 50% !important;
 }
+
